@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/mdevilliers/redishappy",
+	"ImportPath": "github.com/jrmConduce/redishappy",
 	"GoVersion": "go1.3.3",
 	"Packages": [
 		"./..."
