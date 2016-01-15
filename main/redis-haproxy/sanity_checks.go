@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/mdevilliers/redishappy/configuration"
-	"github.com/mdevilliers/redishappy/util"
+	"github.com/jrmConduce/redishappy/configuration"
+	"github.com/jrmConduce/redishappy/util"
 )
 
 type HAProxyConfigContainsRequiredSections struct{}

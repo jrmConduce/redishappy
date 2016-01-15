@@ -3,8 +3,8 @@ package api
 import (
 	"net/http"
 
-	"github.com/mdevilliers/redishappy/configuration"
-	"github.com/mdevilliers/redishappy/util"
+	"github.com/jrmConduce/redishappy/configuration"
+	"github.com/jrmConduce/redishappy/util"
 )
 
 type ConfigurationApi struct {

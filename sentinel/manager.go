@@ -3,10 +3,10 @@ package sentinel
 import (
 	"time"
 
-	"github.com/mdevilliers/redishappy/configuration"
-	"github.com/mdevilliers/redishappy/services/logger"
-	"github.com/mdevilliers/redishappy/services/redis"
-	"github.com/mdevilliers/redishappy/types"
+	"github.com/jrmConduce/redishappy/configuration"
+	"github.com/jrmConduce/redishappy/services/logger"
+	"github.com/jrmConduce/redishappy/services/redis"
+	"github.com/jrmConduce/redishappy/types"
 )
 
 const (

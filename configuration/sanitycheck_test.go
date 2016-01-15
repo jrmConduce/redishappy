@@ -3,7 +3,7 @@ package configuration
 import (
 	"testing"
 
-	"github.com/mdevilliers/redishappy/types"
+	"github.com/jrmConduce/redishappy/types"
 )
 
 func TestObviousMisConfiguration(t *testing.T) {

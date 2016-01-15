@@ -3,8 +3,8 @@ package api
 import (
 	"net/http"
 
-	"github.com/mdevilliers/redishappy/sentinel"
-	"github.com/mdevilliers/redishappy/util"
+	"github.com/jrmConduce/redishappy/sentinel"
+	"github.com/jrmConduce/redishappy/util"
 )
 
 type TopologyApi struct {

@@ -1,7 +1,7 @@
 package redis
 
 import (
-	"github.com/mdevilliers/redishappy/services/logger"
+	"github.com/jrmConduce/redishappy/services/logger"
 	"github.com/therealbill/libredis/client"
 )
 

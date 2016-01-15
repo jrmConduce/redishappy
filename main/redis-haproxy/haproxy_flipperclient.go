@@ -3,11 +3,11 @@ package main
 import (
 	"sync"
 
-	"github.com/mdevilliers/redishappy/configuration"
-	"github.com/mdevilliers/redishappy/services/logger"
-	"github.com/mdevilliers/redishappy/services/template"
-	"github.com/mdevilliers/redishappy/types"
-	"github.com/mdevilliers/redishappy/util"
+	"github.com/jrmConduce/redishappy/configuration"
+	"github.com/jrmConduce/redishappy/services/logger"
+	"github.com/jrmConduce/redishappy/services/template"
+	"github.com/jrmConduce/redishappy/types"
+	"github.com/jrmConduce/redishappy/util"
 )
 
 type HAProxyFlipperClient struct {

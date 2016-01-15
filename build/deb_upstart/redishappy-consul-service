@@ -1,5 +1,5 @@
 description "RedisHappy. Automated Redis failover daemon"
-author      "mdevilliers"
+author      "jrmConduce"
 
 start on filesystem or runlevel [2345]
 stop on [!12345]

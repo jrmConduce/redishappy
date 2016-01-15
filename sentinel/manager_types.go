@@ -3,7 +3,7 @@ package sentinel
 import (
 	"time"
 
-	"github.com/mdevilliers/redishappy/types"
+	"github.com/jrmConduce/redishappy/types"
 )
 
 type SentinelTopology struct {

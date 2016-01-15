@@ -1,7 +1,7 @@
 package sentinel
 
 import (
-	"github.com/mdevilliers/redishappy/types"
+	"github.com/jrmConduce/redishappy/types"
 )
 
 type Throttle struct {

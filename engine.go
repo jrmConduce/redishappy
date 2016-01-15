@@ -1,11 +1,11 @@
 package redishappy
 
 import (
-	"github.com/mdevilliers/redishappy/api"
-	"github.com/mdevilliers/redishappy/configuration"
-	"github.com/mdevilliers/redishappy/sentinel"
-	"github.com/mdevilliers/redishappy/services/logger"
-	"github.com/mdevilliers/redishappy/types"
+	"github.com/jrmConduce/redishappy/api"
+	"github.com/jrmConduce/redishappy/configuration"
+	"github.com/jrmConduce/redishappy/sentinel"
+	"github.com/jrmConduce/redishappy/services/logger"
+	"github.com/jrmConduce/redishappy/types"
 	"github.com/zenazn/goji"
 	"github.com/zenazn/goji/web"
 )

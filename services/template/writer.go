@@ -6,7 +6,7 @@ import (
 	"sort"
 	"text/template"
 
-	"github.com/mdevilliers/redishappy/types"
+	"github.com/jrmConduce/redishappy/types"
 )
 
 type TemplateData struct {

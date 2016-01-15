@@ -3,7 +3,7 @@ package sentinel
 import (
 	"testing"
 
-	"github.com/mdevilliers/redishappy/types"
+	"github.com/jrmConduce/redishappy/types"
 )
 
 func TestPassThrough(t *testing.T) {

@@ -4,7 +4,7 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/mdevilliers/redishappy/util"
+	"github.com/jrmConduce/redishappy/util"
 )
 
 func TestBasicMasterDetailsCollectionOperations(t *testing.T) {

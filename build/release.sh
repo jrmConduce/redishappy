@@ -4,7 +4,7 @@ set -u
 set -x
 
 version=${_REDISHAPPY_VERSION:-"1.0.0"}
-url="https://github.com/mdevilliers/redishappy"
+url="https://github.com/jrmConduce/redishappy"
 arch="amd64"
 section="misc"
 license="Apache Software License 2.0"
@@ -15,7 +15,7 @@ builddir="output"
 installdir="usr/bin"
 logdir="var/log"
 configdir="etc"
-vendor="mdevilliers"
+vendor="jrmConduce"
 
 function makeRedisHAProxyPackage_deb() {
 

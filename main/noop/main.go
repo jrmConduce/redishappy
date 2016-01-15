@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/mdevilliers/redishappy"
-	"github.com/mdevilliers/redishappy/configuration"
-	"github.com/mdevilliers/redishappy/services/logger"
+	"github.com/jrmConduce/redishappy"
+	"github.com/jrmConduce/redishappy/configuration"
+	"github.com/jrmConduce/redishappy/services/logger"
 	"github.com/zenazn/goji/web"
 )
 

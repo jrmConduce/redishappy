@@ -3,8 +3,8 @@ package sentinel
 import (
 	"testing"
 
-	"github.com/mdevilliers/redishappy/configuration"
-	"github.com/mdevilliers/redishappy/types"
+	"github.com/jrmConduce/redishappy/configuration"
+	"github.com/jrmConduce/redishappy/types"
 )
 
 func TestBasicEventChannel(t *testing.T) {

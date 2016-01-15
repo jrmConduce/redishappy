@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/mdevilliers/redishappy/services/logger"
-	"github.com/mdevilliers/redishappy/types"
-	"github.com/mdevilliers/redishappy/util"
+	"github.com/jrmConduce/redishappy/services/logger"
+	"github.com/jrmConduce/redishappy/types"
+	"github.com/jrmConduce/redishappy/util"
 )
 
 type NoOpFlipperClient struct {

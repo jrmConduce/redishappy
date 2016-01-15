@@ -36,12 +36,12 @@ go tool cover -func profile.cov
 
 echo "building main applications"
 echo "building noop"
-godep go build github.com/mdevilliers/redishappy/main/noop
+godep go build github.com/jrmConduce/redishappy/main/noop
 
 echo "building redis-haproxy"
-godep go build github.com/mdevilliers/redishappy/main/redis-haproxy
+godep go build github.com/jrmConduce/redishappy/main/redis-haproxy
 
 echo "building redis-consul"
-godep go build github.com/mdevilliers/redishappy/main/redis-consul
+godep go build github.com/jrmConduce/redishappy/main/redis-consul
 
 echo "finished"
